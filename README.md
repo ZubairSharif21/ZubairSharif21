@@ -69,14 +69,6 @@ I work with startups and growing businesses that require structured engineering 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubairSharif21&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairSharif21&layout=compact&theme=radical)
-
----
-
 ## 📩 Contact
 
 🌐 Portfolio: https://zubair.creativewebdevs.com  
