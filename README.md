@@ -11,7 +11,7 @@ Top Rated Plus Full Stack Developer specializing in scalable backend architectur
 
 I design and engineer secure, production-ready Laravel systems, RESTful APIs, payment gateway integrations, and multi-role SaaS platforms. My focus is clean architecture, maintainable code, and long-term scalability.
 
-I work with startups and growing businesses that require structured engineering execution — not just development, but reliable technical solutions aligned with business objectives.
+I work with startups and growing businesses that require structured engineering execution, not just development, but reliable technical solutions aligned with business objectives.
 
 ---
 
@@ -52,7 +52,7 @@ I work with startups and growing businesses that require structured engineering 
 
 ## 🏆 Professional Credentials
 
-- ⭐ **Top Rated Plus – Upwork (Top 3% Global Talent)**
+- ⭐ **Top Rated Plus Upwork (Top 3% Global Talent)**
 - 🏅 **Upwork Verified PHP Certification**
 - 🏗 **Backend Development Certification**
 - 📚 Continuous Advanced Technical Training
@@ -65,6 +65,7 @@ I work with startups and growing businesses that require structured engineering 
 - Advanced Backend Development
 - Laravel & API Architecture
 - Modern Web Application Engineering
+<img width="847" height="400" alt="image" src="https://github.com/user-attachments/assets/b0e8ca63-4bbf-4ea3-8e2e-a91fb8697a67" />
 
 ---
 
