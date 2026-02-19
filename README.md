@@ -79,4 +79,4 @@ I work with startups and growing businesses that require structured engineering 
 
 ### 🧠 Engineering Philosophy
 
-I build systems that are secure, scalable, and engineered for growth — not just coded to function.
+I build systems that are secure, scalable, and engineered for growth, not just coded to function.
