@@ -65,7 +65,7 @@ I work with startups and growing businesses that require structured engineering 
 - Advanced Backend Development
 - Laravel & API Architecture
 - Modern Web Application Engineering
-<img width="847" height="400" alt="image" src="https://github.com/user-attachments/assets/b0e8ca63-4bbf-4ea3-8e2e-a91fb8697a67" />
+<img width="847" height="600" alt="image" src="https://github.com/user-attachments/assets/b0e8ca63-4bbf-4ea3-8e2e-a91fb8697a67" />
 
 ---
 
