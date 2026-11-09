@@ -71,7 +71,7 @@ I work with startups and growing businesses that require structured engineering 
 
 ## 📩 Contact
 
-🌐 Portfolio: https://zubair.seniotlaravel.com  
+🌐 Portfolio: https://zubair.seniorlaravel.com  
 📧 Business Email: zubair918sharif@gmail.com  
 💼 Upwork: Top Rated Plus Freelancer  
 
